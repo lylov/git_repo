@@ -6,7 +6,10 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("Hello, World");
+	printf("Hello, World\n");
+	printf("Hello\n");
+
+	getch();
 	return 0;
 }
 
